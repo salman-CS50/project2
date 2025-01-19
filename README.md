@@ -1,5 +1,4 @@
-# NEW PROJECT
-
+# Git Basic commands
 This project was created from local system.
 
 To initialize a .git file to track changes:
