@@ -2,6 +2,9 @@
 
 This project was created from local system.
 
+to initialize a .git file to track changes:
+    git init(Add a new .git file to the current working directory)
+
 
 To create a new repo:
     -> manually create a new repository in the github
